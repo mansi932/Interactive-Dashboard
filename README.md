@@ -1,2 +1,2 @@
 # Interactive-Dashboard
-Interactive Dashboard with Map and Stats
+This project is an interactive web dashboard that utilizes React.js and Leaflet.js to provide users with a dynamic mapping experience. It features clickable markers representing various cities, allowing users to view key statistics and details about each location. The dashboard is designed with a responsive layout using CSS Grid and Flexbox, ensuring a seamless experience across different devices.
